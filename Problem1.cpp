@@ -1,3 +1,5 @@
+// Problem 1 - sum of multiples of 3 and 5
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
